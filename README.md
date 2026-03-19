@@ -82,7 +82,6 @@ mvp = proj @ view @ model
 2. 确保 Taichi 版本与 Python 版本兼容，建议使用最新稳定版
 3. 旋转角度每次调整 10°，可修改代码中 `angle += 10.0` 调整旋转步长
 ## 动图示意
-![Jc5X75oK_converted](https://github.com/user-attachments/assets/80a6caf5-b7d1-4a8e-9f6a-92f8a84c4bfd)
 ![r4T1zY3n_converted](https://github.com/user-attachments/assets/be5dca88-d75c-4fa5-8341-ea1ab5b9795c)
 
 # Yaosuke-02
